@@ -1,0 +1,46 @@
+{
+    "key": "group_63048dc26312c",
+    "title": "services fields",
+    "fields": [
+        {
+            "key": "field_63048de343d7d",
+            "label": "taxonomy icon",
+            "name": "tdcf_taxonomy_icon",
+            "aria-label": "",
+            "type": "textarea",
+            "instructions": "Input your svg code",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "maxlength": "",
+            "rows": "",
+            "new_lines": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "taxonomy",
+                "operator": "==",
+                "value": "tdtax_services"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1709007557,
+    "local_file": "\/var\/www\/news.com\/wp-content\/plugins\/td-demo-eastcoast-check-pro\/includes\/acf-json\/group_63048dc26312c.json"
+}
